@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "SkyBox and Objects.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreeramGn/three-js-skybox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreeramGn/three-js-skybox/issues"
+  },
+  "homepage": "https://github.com/ShreeramGn/three-js-skybox#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
